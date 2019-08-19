@@ -1,0 +1,8 @@
+name: WOT:API-Action-Example
+type: module
+description: WOT:API Action for example.
+core: 8.x
+package: WOTAPI
+dependencies:
+  - wotapi:wotapi
+  - wotapi_action:wotapi_action
